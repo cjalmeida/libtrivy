@@ -1,0 +1,8 @@
+README.md
+setup.cfg
+setup.py
+python/libtrivy/__init__.py
+python/libtrivy.egg-info/PKG-INFO
+python/libtrivy.egg-info/SOURCES.txt
+python/libtrivy.egg-info/dependency_links.txt
+python/libtrivy.egg-info/top_level.txt

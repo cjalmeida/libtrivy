@@ -1,0 +1,23 @@
+{
+  "OS": {
+    "Family": "ubuntu",
+    "Name": "20.04"
+  },
+  "Packages": [
+    {
+      "Name": "libudev1",
+      "Version": "245.4-4ubuntu3.6",
+      "SrcName": "systemd",
+      "SrcVersion": "245.4-4ubuntu3.6",
+      "SrcRelease": "",
+      "SrcEpoch": 0
+    }
+  ],
+  "Applications": [
+    {
+      "Type": "pipenv",
+      "FilePath": "/tmp/foo",
+      "Libraries": [{ "Library": { "Name": "requests", "Version": "1.2.3" } }]
+    }
+  ]
+}

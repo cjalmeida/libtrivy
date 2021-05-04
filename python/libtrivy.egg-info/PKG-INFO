@@ -1,0 +1,16 @@
+Metadata-Version: 1.1
+Name: libtrivy
+Version: 0.17.2
+Summary: Python wrapper for Trivy
+Home-page: https://github.com/cjalmeida/libtrivy
+Author: Cloves Almeida
+Author-email: almeida.cloves@bcg.com
+License: Proprietary
+Description: # libtrivy
+        
+        Python wrapper for [Trivy](https://github.com/aquasecurity/trivy).
+        
+        Eary alpha.
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
